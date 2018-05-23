@@ -384,7 +384,8 @@ GROUP BY Customers.CustomerID
 gremlin> g.V().hasLabel("customer").match(
            __.as("c").values("customerId").as("customerId"),
            __.as("c").out("ordered").count().as("orders")
-         ).select("customerId", "orders")```
+         ).select("customerId", "orders")
+```
 ### Cypher
 
 ```code
@@ -414,7 +415,7 @@ SELECT [customer].[CompanyName]
 gremlin> g.V().hasLabel("customer").union(
            filter {it.get().value("company")[0] == "A"},
            filter {it.get().value("company")[0] == "E"}).values("company")
-         ```
+```
 ### Cypher
 
 ```code
@@ -475,7 +476,7 @@ gremlin> g.V().has("product", "name", "Red Gremlin Jacket").
 gremlin> p.remove()
 
 gremlin> g.V().has("category", "name", "Merchandising").drop()
-         ```
+```
 ### Cypher
 
 ```code
@@ -539,7 +540,7 @@ gremlin> g.V().hasLabel("employee").where(__.not(out("reportsTo"))).
                  def employee = it.get()
                  employee.value("firstName") + " " + employee.value("lastName")
                })
-         ```
+```
 ### Cypher
 
 ```code
@@ -606,7 +607,7 @@ gremlin> g.V().hasLabel("employee").where(__.not(out("reportsTo"))).
                  def employee = it.get()
                  employee.value("firstName") + " " + employee.value("lastName")
                })
-         ```
+```
 ### Cypher
 
 ```code
@@ -682,7 +683,7 @@ gremlin> g.V().has("customer", "customerId", "ALFKI").as("customer").
                groupCount().order(local).by(values, decr).select(keys).limit(local, 5).
                unfold().values("name")
 
-         ```
+```
 ### Cypher
 
 ```code
