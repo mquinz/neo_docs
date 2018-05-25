@@ -1,0 +1,87 @@
+Data Modeling Notes
+
+Useful links that were shown in class
+
+Scratchpad
+http://bit.ly/danFundItch
+
+Panama Papers
+https://neo4j.com/blog/depth-graph-analysis-paradise-papers/
+
+Paradise papers
+
+Northwind Examples
+https://github.com/mquinz/neo_docs/blob/master/Northwind_SQL2GREMLIN_CYPHER.md
+https://neo4j.com/developer/guide-sql-to-cypher/
+https://gist.github.com/adam-cowley/79923b538f6851d30e08
+
+Dependency graph
+https://neo4j.com/graphgist/network-dependency-graph
+
+Graph Gists
+https://neo4j.com/graphgists/
+
+Graph Visualization and algorithms
+https://www.youtube.com/watch?v=0-1A7f8993M
+
+Law Enforcement Data Modeling
+https://neo4j.com/blog/graph-technology-pole-position-law-enforcement/
+
+Graph Visualization Tools
+https://neo4j.com/developer/guide-data-visualization/
+
+Neovis Visualization Library
+github.com/neo4j-contrib/neovis.js
+
+NASA Graph Knowledge Base
+https://neo4j.com/blog/nasa-critical-data-knowledge-graph/
+
+AirBnb Knowledge Base
+https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770
+
+Cool Graph Dashboard using Virtual Reality Tools
+https://youtu.be/byAA-tT4UrY
+
+Graph Algorithms
+neo4j.com/developer/graph-algorithms/
+
+Graph Visualization Examples
+https://www.grundsatzlich-it.nl/development/creating-brilliant-visualizations-of-graph-data-with-d3-and-neo4j/
+
+python notebooks
+https://github.com/graphistry/pygraphistry/blob/master/demos/Neo4jTwitter.ipynb
+
+Stanford Russian Troll Seminar
+https://www.youtube.com/watch?v=wtP2Y8S2XBE
+
+Neo4j Internals
+https://www.slideshare.net/thobe/an-overview-of-neo4j-internals
+
+Impact of bad Tech Stack on Stock Value (using Mongo for graph problems)\
+https://techcrunch.com/2017/06/09/pandora-raises-480m-from-siriusxm-sells-ticketfly-to-eventbrite-for-200m/
+
+Bill of Materials
+https://www.slideshare.net/neo4j/volvo-cars-build-a-car-with-neo4j
+https://www.slideshare.net/olegshilovitsky/plm-and-erp-separated-by-a-common-bill-of-materials-bom
+https://neo4j.com/case-studies/us-army/
+https://neo4j.com/graphgist/supply-chain-management
+
+Guides
+//game of thrones visualization and modeling
+:play http://guides.neo4j.com/got
+
+Movie Application
+http://my-neo4j-movies-app.herokuapp.com/
+
+Knowledge Graph Webinar - excellent
+https://www.youtube.com/watch?v=cjxzBmpBq5Q
+
+// standard modeling
+:play https://guides.neo4j.com/modeling_sandbox/
+:play https://guides.neo4j.com/modeling_sandbox/02_flight.html
+:play http://guides.neo4j.com/modeling_sandbox/03_flight_booking.html
+:play http://guides.neo4j.com/modeling_sandbox/04_specific_relationship_types.html
+:play http://guides.neo4j.com/modeling_sandbox/06_multiple_models.html
+:play http://guides.neo4j.com/modeling_airports/07_your_turn.html
+
+My links
