@@ -3,12 +3,14 @@ Data Modeling Notes
 Useful links that were shown in class
 
 Scratchpad
-http://bit.ly/danFundItch
 
 Panama Papers
 https://neo4j.com/blog/depth-graph-analysis-paradise-papers/
 
 Paradise papers
+https://tbgraph.wordpress.com/2018/02/19/paradise-papers-analysis-with-neo4j/
+https://github.com/michelcaradec/Paradise-Papers
+
 
 Northwind Examples
 https://github.com/mquinz/neo_docs/blob/master/Northwind_SQL2GREMLIN_CYPHER.md
@@ -38,6 +40,9 @@ https://neo4j.com/blog/nasa-critical-data-knowledge-graph/
 
 AirBnb Knowledge Base
 https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770
+
+Master Data Management
+https://neo4j.com/blog/graph-technology-enterprise-master-data-management/
 
 Cool Graph Dashboard using Virtual Reality Tools
 https://youtu.be/byAA-tT4UrY
@@ -76,6 +81,12 @@ http://my-neo4j-movies-app.herokuapp.com/
 Knowledge Graph Webinar - excellent
 https://www.youtube.com/watch?v=cjxzBmpBq5Q
 
+Loading CSV files Youtube video - excellent
+And supporting git repo
+https://www.youtube.com/watch?v=Eh_79goBRUk
+https://github.com/nicolewhite/neo4j-complaints
+
+
 // standard modeling
 :play https://guides.neo4j.com/modeling_sandbox/
 :play https://guides.neo4j.com/modeling_sandbox/02_flight.html
@@ -84,4 +95,11 @@ https://www.youtube.com/watch?v=cjxzBmpBq5Q
 :play http://guides.neo4j.com/modeling_sandbox/06_multiple_models.html
 :play http://guides.neo4j.com/modeling_airports/07_your_turn.html
 
-My links
+
+Excellent git repos and blogs
+https://github.com/maxdemarzi
+https://github.com/nicolewhite
+
+https://maxdemarzi.com/
+https://neo4j.com/developer/resources/#_neo4j_cypher_resources
+
